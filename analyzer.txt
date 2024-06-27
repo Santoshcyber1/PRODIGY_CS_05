@@ -1,0 +1,495 @@
+Source IP: 140.82.114.25
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 140.82.114.25:https > 192.168.1.3:45229 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 140.82.114.25
+Protocol: TCP
+Payload: TCP 192.168.1.3:45229 > 140.82.114.25:https PA / Raw
+--------------------------------------------------
+Source IP: 140.82.114.25
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 140.82.114.25:https > 192.168.1.3:45229 A / Padding
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 PA / Raw
+--------------------------------------------------
+Source IP: 104.18.32.115
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 104.18.32.115:https > 192.168.1.3:45010 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 104.18.32.115
+Protocol: TCP
+Payload: TCP 192.168.1.3:45010 > 104.18.32.115:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 A / Padding
+--------------------------------------------------
+Source IP: 104.18.32.115
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 104.18.32.115:https > 192.168.1.3:45010 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 20.198.119.143
+Protocol: TCP
+Payload: TCP 192.168.1.3:45024 > 20.198.119.143:https A / Raw / Padding
+--------------------------------------------------
+Source IP: 20.198.119.143
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.198.119.143:https > 192.168.1.3:45024 A
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45146 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45146 A
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 20.52.64.201
+Protocol: TCP
+Payload: TCP 192.168.1.3:45230 > 20.52.64.201:https A / Raw / Padding
+--------------------------------------------------
+Source IP: 20.52.64.201
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.52.64.201:https > 192.168.1.3:45230 A
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45146 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45146 A / Padding
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 A / Padding
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45011 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45011 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45011 A / Padding
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45147 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45147 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45147 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.1
+Protocol: UDP
+Payload: UDP / DNS Qry "b'WORKGROUP.'" 
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.1
+Protocol: UDP
+Payload: UDP / DNS Qry "b'WORKGROUP.'" 
+--------------------------------------------------
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / DNS Ans 
+--------------------------------------------------
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / DNS Ans 
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.255
+Protocol: UDP
+Payload: UDP / NBNSHeader / NBNSQueryRequest who has '\\WORKGROUP'
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.255
+Protocol: UDP
+Payload: UDP / NBNSHeader / NBNSQueryRequest who has '\\WORKGROUP'
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.1
+Protocol: UDP
+Payload: UDP / DNS Qry "b'WORKGROUP.'" 
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.1
+Protocol: UDP
+Payload: UDP / DNS Qry "b'WORKGROUP.'" 
+--------------------------------------------------
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / DNS Ans 
+--------------------------------------------------
+Source IP: 192.168.1.1
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / DNS Ans 
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.168.1.255
+Protocol: UDP
+Payload: UDP / NBNSHeader / NBNSQueryRequest who has '\\WORKGROUP'
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 A / Padding
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 20.187.186.89
+Protocol: TCP
+Payload: TCP 192.168.1.3:44996 > 20.187.186.89:https A / Raw / Padding
+--------------------------------------------------
+Source IP: 20.187.186.89
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.187.186.89:https > 192.168.1.3:44996 A
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.46.211.253
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 172.105.60.167
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 143.244.134.227
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 172.105.60.167
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.46.211.253
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 143.244.134.227
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45146 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45146 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.1.3:52558 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 172.232.97.196
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 95.216.144.226
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 157.245.102.2
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 162.159.200.123
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 162.159.200.123
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 157.245.102.2
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 172.232.97.196
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 95.216.144.226
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.1.3:52558 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.46.210.39
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 13.126.27.131
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 139.59.55.93
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.46.210.39
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 13.126.27.131
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 139.59.55.93
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.1.3:52558 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.46.215.60
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 152.70.69.232
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 192.46.215.141
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.168.1.11
+Destination IP: 162.159.200.1
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 152.70.69.232
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.46.215.141
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 192.46.215.60
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 162.159.200.1
+Destination IP: 192.168.1.11
+Protocol: UDP
+Payload: UDP / NTP v??, ??
+--------------------------------------------------
+Source IP: 104.18.32.115
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 104.18.32.115:https > 192.168.1.3:45010 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 104.18.32.115
+Protocol: TCP
+Payload: TCP 192.168.1.3:45010 > 104.18.32.115:https PA / Raw
+--------------------------------------------------
+Source IP: 104.18.32.115
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 104.18.32.115:https > 192.168.1.3:45010 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 172.64.155.141
+Protocol: TCP
+Payload: TCP 192.168.1.3:45011 > 172.64.155.141:https PA / Raw
+--------------------------------------------------
+Source IP: 172.64.155.141
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 172.64.155.141:https > 192.168.1.3:45011 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: UDP 192.168.1.3:52558 > 239.255.255.250:1900 / Raw
+--------------------------------------------------
+Source IP: 20.52.64.201
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.52.64.201:https > 192.168.1.3:45230 RA / Padding
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https PA / Raw
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 13.107.42.14
+Protocol: TCP
+Payload: TCP 192.168.1.3:45063 > 13.107.42.14:https A / Padding
+--------------------------------------------------
+Source IP: 13.107.42.14
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 13.107.42.14:https > 192.168.1.3:45063 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 140.82.114.25
+Protocol: TCP
+Payload: TCP 192.168.1.3:45229 > 140.82.114.25:https A / Raw / Padding
+--------------------------------------------------
+Source IP: 140.82.114.25
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 140.82.114.25:https > 192.168.1.3:45229 A
+--------------------------------------------------
+Source IP: 20.187.186.89
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.187.186.89:https > 192.168.1.3:44996 PA / Raw
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 20.187.186.89
+Protocol: TCP
+Payload: TCP 192.168.1.3:44996 > 20.187.186.89:https PA / Raw
+--------------------------------------------------
+Source IP: 20.187.186.89
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.187.186.89:https > 192.168.1.3:44996 A / Padding
+--------------------------------------------------
+Source IP: 192.168.1.3
+Destination IP: 20.198.119.143
+Protocol: TCP
+Payload: TCP 192.168.1.3:45024 > 20.198.119.143:https A / Raw / Padding
+--------------------------------------------------
+Source IP: 20.198.119.143
+Destination IP: 192.168.1.3
+Protocol: TCP
+Payload: TCP 20.198.119.143:https > 192.168.1.3:45024 A
+--------------------------------------------------
